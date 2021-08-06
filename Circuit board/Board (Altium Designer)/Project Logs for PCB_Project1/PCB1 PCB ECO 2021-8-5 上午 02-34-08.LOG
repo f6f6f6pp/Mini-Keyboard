@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=GND Pin=K1-1
+Removed Pin From Net: NetName=GND Pin=K1-1
+Removed Pin From Net: NetName=K1 Pin=K1-2
+Removed Pin From Net: NetName=LED Pin=K1-DI
+Removed Pin From Net: NetName=NetK1_DO Pin=K1-DO
+Removed Pin From Net: NetName=GND Pin=K1-G
+Removed Pin From Net: NetName=VCC Pin=K1-V
+Removed Pin From Net: NetName=GND Pin=K2-1
+Removed Pin From Net: NetName=GND Pin=K2-1
+Removed Pin From Net: NetName=K2 Pin=K2-2
+Removed Pin From Net: NetName=NetK1_DO Pin=K2-DI
+Removed Pin From Net: NetName=NetK2_DO Pin=K2-DO
+Removed Pin From Net: NetName=GND Pin=K2-G
+Removed Pin From Net: NetName=VCC Pin=K2-V
+Removed Pin From Net: NetName=GND Pin=K3-1
+Removed Pin From Net: NetName=GND Pin=K3-1
+Removed Pin From Net: NetName=K3 Pin=K3-2
+Removed Pin From Net: NetName=NetK2_DO Pin=K3-DI
+Removed Pin From Net: NetName=NetK3_DO Pin=K3-DO
+Removed Pin From Net: NetName=GND Pin=K3-G
+Removed Pin From Net: NetName=VCC Pin=K3-V
+Removed Pin From Net: NetName=GND Pin=K4-1
+Removed Pin From Net: NetName=GND Pin=K4-1
+Removed Pin From Net: NetName=K4 Pin=K4-2
+Removed Pin From Net: NetName=NetK3_DO Pin=K4-DI
+Removed Pin From Net: NetName=GND Pin=K4-G
+Removed Pin From Net: NetName=VCC Pin=K4-V
+Added Component: Designator=K1(MX1A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K2(MX1A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K3(MX1A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K4(MX1A)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=K1-1
+Added Pin To Net: NetName=GND Pin=K1-1
+Added Pin To Net: NetName=K1 Pin=K1-2
+Added Pin To Net: NetName=LED Pin=K1-DI
+Added Pin To Net: NetName=NetK1_DO Pin=K1-DO
+Added Pin To Net: NetName=GND Pin=K1-G
+Added Pin To Net: NetName=VCC Pin=K1-V
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=K2 Pin=K2-2
+Added Pin To Net: NetName=NetK1_DO Pin=K2-DI
+Added Pin To Net: NetName=NetK2_DO Pin=K2-DO
+Added Pin To Net: NetName=GND Pin=K2-G
+Added Pin To Net: NetName=VCC Pin=K2-V
+Added Pin To Net: NetName=GND Pin=K3-1
+Added Pin To Net: NetName=GND Pin=K3-1
+Added Pin To Net: NetName=K3 Pin=K3-2
+Added Pin To Net: NetName=NetK2_DO Pin=K3-DI
+Added Pin To Net: NetName=NetK3_DO Pin=K3-DO
+Added Pin To Net: NetName=GND Pin=K3-G
+Added Pin To Net: NetName=VCC Pin=K3-V
+Added Pin To Net: NetName=GND Pin=K4-1
+Added Pin To Net: NetName=GND Pin=K4-1
+Added Pin To Net: NetName=K4 Pin=K4-2
+Added Pin To Net: NetName=NetK3_DO Pin=K4-DI
+Added Pin To Net: NetName=GND Pin=K4-G
+Added Pin To Net: NetName=VCC Pin=K4-V

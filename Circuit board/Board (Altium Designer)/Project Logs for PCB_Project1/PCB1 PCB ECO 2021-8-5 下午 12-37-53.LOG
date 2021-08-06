@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=K2 Pin=U1-1
+Removed Pin From Net: NetName=ENTER Pin=U1-39
+Removed Pin From Net: NetName=MOD+ Pin=U1-40
+Removed Pin From Net: NetName=K1 Pin=U1-41
+Added Pin To Net: NetName=LED Pin=U1-1
+Added Pin To Net: NetName=ENTER Pin=U1-38
+Added Pin To Net: NetName=MOD+ Pin=U1-39
+Added Pin To Net: NetName=K1 Pin=U1-40
+Added Pin To Net: NetName=K2 Pin=U1-41
