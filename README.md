@@ -17,6 +17,7 @@ SKSCLBE010 側按鍵 X1 [可不裝，拔USB線也差不多效果，或拿金屬�
 0603 22R 貼片電阻 X2  
 0603 330R 貼片電阻 X3  
 0603 10K 貼片電阻 X1  
+SMD式 Micro-USB 接口 X1  
 1X4 針腳 X1 [OLED螢幕用，根據各位外殼設計，用排線也行]  
 2X3 針腳 X1 [ICSP 燒錄用，裝螢幕前記得解焊掉]  
 ![線路](https://user-images.githubusercontent.com/53372547/128541721-fea01785-d0ca-4f58-9c3f-9b52de941da3.jpg)
