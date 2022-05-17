@@ -21,8 +21,6 @@
 - 1X4 針腳 X1 [OLED螢幕用，根據各位外殼設計，用排線也行]  
 - 2X3 針腳 X1 [ICSP 燒錄用，裝螢幕前記得解焊掉]  
 
-![線路](https://user-images.githubusercontent.com/53372547/128541721-fea01785-d0ca-4f58-9c3f-9b52de941da3.jpg)
-
 ## 程式 [使用Arduino IDE 開發]
 ### 開發板選擇：
 - Arduino Micro  
