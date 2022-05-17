@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MiniKey.PrjPCB]
+   Generated File[MiniKey-RoundHoles.TXT]
+   Generated File[MiniKey-SlotHoles.TXT]
+   Generated File[MiniKey.LDP]
+   Generated File[MiniKey.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At ¤W¤È 09:08:35 On 2022/4/28

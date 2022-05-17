@@ -1,0 +1,124 @@
+Added Component: Designator=K1(MX1A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K2(MX1A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K3(MX1A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K4(MX1A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=O1(0.91-OLED)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S1(five-way switch)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S2(SW_PB2_A1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S3(SW_PB2_A1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S4(SW_PB2_A1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U1(MODULE_ARDUINO_PRO_MINI)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "SparkFun Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ARDUINO PRO MINI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ARDUINO%20PRO%20MINI/SparkFun%20Electronics/view-part/2828730/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5D Pin=S1-4
+Added Pin To Net: NetName=5D Pin=U1-D5
+Added Net: Name=5D
+Added Pin To Net: NetName=5L Pin=S1-2
+Added Pin To Net: NetName=5L Pin=U1-D15
+Added Net: Name=5L
+Added Pin To Net: NetName=5M Pin=S1-3
+Added Pin To Net: NetName=5M Pin=U1-D4
+Added Net: Name=5M
+Added Pin To Net: NetName=5R Pin=S1-5
+Added Pin To Net: NetName=5R Pin=U1-D16
+Added Net: Name=5R
+Added Pin To Net: NetName=5U Pin=S1-6
+Added Pin To Net: NetName=5U Pin=U1-D14
+Added Net: Name=5U
+Added Pin To Net: NetName=ENTER Pin=S4-1
+Added Pin To Net: NetName=ENTER Pin=U1-D6
+Added Net: Name=ENTER
+Added Pin To Net: NetName=ESC Pin=S2-1
+Added Pin To Net: NetName=ESC Pin=U1-D8
+Added Net: Name=ESC
+Added Pin To Net: NetName=GND Pin=K1-1
+Added Pin To Net: NetName=GND Pin=K1-1
+Added Pin To Net: NetName=GND Pin=K1-G
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=GND Pin=K2-G
+Added Pin To Net: NetName=GND Pin=K3-1
+Added Pin To Net: NetName=GND Pin=K3-1
+Added Pin To Net: NetName=GND Pin=K3-G
+Added Pin To Net: NetName=GND Pin=K4-1
+Added Pin To Net: NetName=GND Pin=K4-1
+Added Pin To Net: NetName=GND Pin=K4-G
+Added Pin To Net: NetName=GND Pin=O1-GND
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S4-2
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Net: Name=GND
+Added Pin To Net: NetName=K1 Pin=K1-2
+Added Pin To Net: NetName=K1 Pin=U1-A3
+Added Net: Name=K1
+Added Pin To Net: NetName=K2 Pin=K2-2
+Added Pin To Net: NetName=K2 Pin=U1-A2
+Added Net: Name=K2
+Added Pin To Net: NetName=K3 Pin=K3-2
+Added Pin To Net: NetName=K3 Pin=U1-D9
+Added Net: Name=K3
+Added Pin To Net: NetName=K4 Pin=K4-2
+Added Pin To Net: NetName=K4 Pin=U1-D10
+Added Net: Name=K4
+Added Pin To Net: NetName=MODE Pin=S3-1
+Added Pin To Net: NetName=MODE Pin=U1-D7
+Added Net: Name=MODE
+Added Pin To Net: NetName=NetK1_DO Pin=K1-DO
+Added Pin To Net: NetName=NetK1_DO Pin=K2-DI
+Added Net: Name=NetK1_DO
+Added Pin To Net: NetName=NetK2_DO Pin=K2-DO
+Added Pin To Net: NetName=NetK2_DO Pin=K3-DI
+Added Net: Name=NetK2_DO
+Added Pin To Net: NetName=NetK3_DO Pin=K3-DO
+Added Pin To Net: NetName=NetK3_DO Pin=K4-DI
+Added Net: Name=NetK3_DO
+Added Pin To Net: NetName=RGB Pin=K1-DI
+Added Pin To Net: NetName=RGB Pin=U1-A1
+Added Net: Name=RGB
+Added Pin To Net: NetName=SCL Pin=O1-SCL
+Added Pin To Net: NetName=SCL Pin=U1-D3
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=O1-SDA
+Added Pin To Net: NetName=SDA Pin=U1-D2
+Added Net: Name=SDA
+Added Pin To Net: NetName=VCC Pin=K1-V
+Added Pin To Net: NetName=VCC Pin=K2-V
+Added Pin To Net: NetName=VCC Pin=K3-V
+Added Pin To Net: NetName=VCC Pin=K4-V
+Added Pin To Net: NetName=VCC Pin=O1-VCC
+Added Pin To Net: NetName=VCC Pin=U1-VCC
+Added Net: Name=VCC
